@@ -22,7 +22,7 @@
       "
     >
       <ul class="text-xs">
-        <li>Alexis AIO brought to you by Alexis</li>
+        <li>Alexis AIO brought to you by <span class="bg-indigo-500 rounded-lg p-1">Alexis</span> | Website by <span class="bg-indigo-500 rounded-lg p-1">Viridian</span></li>
       </ul>
 
       <ul class="ml-auto text-2xl">
