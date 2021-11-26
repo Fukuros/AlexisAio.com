@@ -24,7 +24,7 @@
     <div class="flex flex-row gap-1 py-5 px-5 text-white text-2xl items-center z-20 relative">
       <p>Alexis</p>
       <p class="text-sm bg-indigo-500 p-0.5 rounded-md shadow-lg">AIO</p>
-      <button class="text-base ml-auto bg-indigo-500 p-1 rounded-md shadow-lg hover:bg-indigo-300 transition"><router-link to="/">Home</router-link></button>
+      <button class="text-base text-indigo-600 ml-auto bg-background-app hover:bg-gray-300 p-1 rounded-md shadow-lg transition"><router-link to="/">Home</router-link></button>
     </div>
   </header>
   <main class="relative p-6 grid gap-8 fixed pb-24">

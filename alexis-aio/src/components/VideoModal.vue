@@ -1,13 +1,4 @@
 <template>
-  <!-- <transition name="modal-animation">
-        <div v-show="modalActive" class="modal">
-            <font-awesome-icon icon="times" @click="close"></font-awesome-icon>
-            <div>
-                Hello World!
-            </div>
-            <button @click="close" type="button">Close Modal</button>
-        </div>
-    </transition> -->
   <TransitionRoot appear :show="modalActive" as="template">
     <Dialog as="div">
       <div class="fixed inset-0 z-10 overflow-y-auto">
@@ -36,7 +27,7 @@
             <div
               class="
                 flex-1
-                max-w-3xl
+                max-w-full
                 p-6
                 my-8
                 overflow-hidden
