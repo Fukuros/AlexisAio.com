@@ -98,7 +98,7 @@
             "
           >
             <font-awesome-icon icon="eye" class="text-xl"> </font-awesome-icon>
-            View {{ championCount }} champions
+            View {{ championCount }} Champions
           </router-link>
         </div>
       </div>

@@ -39,6 +39,10 @@
     "bg": "url(RiotX_ChampionList_blitzcrank.jpg)",
     "name": "Blitzcrank"
   },
+  "Brand": {
+    "bg": "url(RiotX_ChampionList_brand.jpg)",
+    "name": "Brand"
+  },
   "Caitlyn": {
     "bg": "url(RiotX_ChampionList_caitlyn.jpg)",
     "name": "Caitlyn"
@@ -55,9 +59,9 @@
     "bg": "url(RiotX_ChampionList_diana.jpg)",
     "name": "Diana"
   },
-  "Dr. Mundo": {
+  "DrMundo": {
     "bg": "url(RiotX_ChampionList_drmundo.jpg)",
-    "name": "Dr. Mundo"
+    "name": "Ahri"
   },
   "Elise": {
     "bg": "url(RiotX_ChampionList_elise.jpg)",
@@ -123,10 +127,6 @@
     "bg": "url(RiotX_ChampionList_kogmaw.jpg)",
     "name": "Kog'Maw"
   },
-  "LeBlanc": {
-    "bg": "url(RiotX_ChampionList_leblanc.jpg)",
-    "name": "LeBlanc"
-  },
   "Leona": {
     "bg": "url(RiotX_ChampionList_leona.jpg)",
     "name": "Leona"
@@ -146,6 +146,10 @@
   "Mordekaiser": {
     "bg": "url(RiotX_ChampionList_mordekaiser.jpg)",
     "name": "Mordekaiser"
+  },
+  "Morgana": {
+    "bg": "url(RiotX_ChampionList_morgana.jpg)",
+    "name": "Morgana"
   },
   "Nami": {
     "bg": "url(RiotX_ChampionList_nami.jpg)",
@@ -179,6 +183,10 @@
     "bg": "url(RiotX_ChampionList_quinn.jpg)",
     "name": "Quinn"
   },
+  "Rammus": {
+    "bg": "url(RiotX_ChampionList_rammus.jpg)",
+    "name": "Rammus"
+  },
   "Rumble": {
     "bg": "url(RiotX_ChampionList_rumble.jpg)",
     "name": "Rumble"
@@ -199,9 +207,17 @@
     "bg": "url(RiotX_ChampionList_shen.jpg)",
     "name": "Shen"
   },
+  "Sivir": {
+    "bg": "url(RiotX_ChampionList_sivir.jpg)",
+    "name": "Sivir"
+  },
   "Skarner": {
     "bg": "url(RiotX_ChampionList_skarner.jpg)",
     "name": "Skarner"
+  },
+  "Soraka": {
+    "bg": "url(RiotX_ChampionList_soraka.jpg)",
+    "name": "Soraka"
   },
   "Swain": {
     "bg": "url(RiotX_ChampionList_swain.jpg)",
@@ -214,6 +230,10 @@
   "Syndra": {
     "bg": "url(RiotX_ChampionList_syndra.jpg)",
     "name": "Syndra"
+  },
+  "TahmKench": {
+    "bg": "url(RiotX_ChampionList_tahmkench.jpg)",
+    "name": "TahmKench"
   },
   "Talon": {
     "bg": "url(RiotX_ChampionList_talon.jpg)",
