@@ -215,7 +215,7 @@
         Interested?
       </h3>
       <div class="flex px-5 items-center justify-center mt-5 gap-3">
-        <button
+        <a
           class="
             bg-gradient-to-r
             from-purple-800
@@ -228,13 +228,15 @@
             transition
             shadow-lg
           "
+          target="_blank"
+          href="https://jkshop.gg/store/category/33-alexis-aio/"
         >
           <font-awesome-icon icon="dollar-sign"> </font-awesome-icon>
           Purchase Alexis
           <span class="text-sm bg-indigo-500 p-0.5 rounded-sm shadow-lg"
             >AIO</span
           >
-        </button>
+        </a>
         <p>or</p>
         <button
           class="
