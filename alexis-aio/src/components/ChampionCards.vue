@@ -11,7 +11,6 @@
       class="absolute left-2 text-indigo-600 text-lg"
     >
     </font-awesome-icon>
-    <p class="ml-auto text-indigo-600 font-extrabold">{{ championCount }} champions</p>
   </div>
   <ul class="grid grid-cols-2 md:grid-cols-5 lg:grid-cols-6 gap-5">
     <li

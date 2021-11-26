@@ -28,9 +28,9 @@
     </div>
   </header>
   <main class="relative p-6 grid gap-8 fixed pb-24">
-      <div>
+      <div class="flex flex-col justify-center">
           <h3 class="text-xl font-extrabold text-indigo-600">
-              Supported Champions
+              Supported Champions | {{ championCount }} champions
           </h3>
       </div>
       <ChampionCards/>
@@ -43,6 +43,7 @@
 <script lang="ts">
 import { defineComponent } from "vue";
 import ChampionCards from "./ChampionCards.vue";
+import champions from "../json/champions.json";
 import Footer from "./Footer.vue";
 
 export default defineComponent({
@@ -53,6 +54,12 @@ export default defineComponent({
       Footer,
   },
 
-  setup() {},
+  setup() {
+    const championCount = Object.keys(champions).length;
+
+    return {
+      championCount,
+    }
+  },
 });
 </script>
