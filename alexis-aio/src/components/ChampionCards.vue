@@ -11,6 +11,7 @@
       class="absolute left-2 text-indigo-600 text-lg"
     >
     </font-awesome-icon>
+    <p class="ml-auto text-indigo-600 font-extrabold">{{ championCount }} champions</p>
   </div>
   <ul class="grid grid-cols-2 md:grid-cols-5 lg:grid-cols-6 gap-5">
     <li
@@ -44,6 +45,8 @@ export default defineComponent({
   setup() {
     let search = ref("");
 
+    const championCount = Object.keys(champions).length;
+
     const filterChampions = computed(() => {
       return Object.values(champions).filter((champion) => {
         return champion.name.toLowerCase().includes(search.value.toLowerCase());
@@ -52,7 +55,8 @@ export default defineComponent({
 
     return {
       filterChampions,
-      search
+      championCount,
+      search,
     };
   },
 });

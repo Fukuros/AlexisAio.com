@@ -98,7 +98,7 @@
             "
           >
             <font-awesome-icon icon="eye" class="text-xl"> </font-awesome-icon>
-            View Champion List
+            View {{ championCount }} champions
           </router-link>
         </div>
       </div>
@@ -258,7 +258,6 @@
       </div>
     </section>
   </main>
-
   <Footer>
   </Footer>
 </template>
@@ -266,6 +265,7 @@
 <script lang="ts">
 import { computed, defineComponent, onUnmounted, Ref, ref } from "vue";
 import { FontAwesomeIcon } from "@fortawesome/vue-fontawesome";
+import champions from "../json/champions.json";
 import HomeCard from "./HomeCard.vue";
 import Footer from "./Footer.vue";
 import VideoModal from "./VideoModal.vue";
@@ -286,6 +286,7 @@ export default defineComponent({
     const tagline = computed(() => taglines[currentTaglineIndex.value]);
 
     const modalActive = ref(false);
+    const championCount = Object.keys(champions).length;
 
     const interval = setInterval(() => {
       currentTaglineIndex.value === taglines.length - 1
@@ -302,6 +303,7 @@ export default defineComponent({
     return {
       tagline,
       modalActive,
+      championCount,
       toggleModal,
     };
   },

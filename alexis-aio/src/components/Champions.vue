@@ -1,5 +1,6 @@
 <template>
-  <header
+  <div class="flex flex-col min-h-screen">
+    <header
     class="
       w-full
       bg-gradient-to-r
@@ -26,7 +27,7 @@
       <button class="text-base ml-auto bg-indigo-500 p-1 rounded-md shadow-lg hover:bg-indigo-300 transition"><router-link to="/">Home</router-link></button>
     </div>
   </header>
-  <main class="relative p-6 grid gap-8">
+  <main class="relative p-6 grid gap-8 fixed pb-24">
       <div>
           <h3 class="text-xl font-extrabold text-indigo-600">
               Supported Champions
@@ -34,8 +35,9 @@
       </div>
       <ChampionCards/>
   </main>
-  <Footer>
+  <Footer class="fixed bottom-0">
   </Footer>
+  </div>
 </template>
 
 <script lang="ts">
