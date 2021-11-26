@@ -34,17 +34,21 @@
       </div>
       <ChampionCards/>
   </main>
+  <Footer>
+  </Footer>
 </template>
 
 <script lang="ts">
 import { defineComponent } from "vue";
 import ChampionCards from "./ChampionCards.vue";
+import Footer from "./Footer.vue";
 
 export default defineComponent({
   name: "Champions",
 
   components: {
       ChampionCards,
+      Footer,
   },
 
   setup() {},

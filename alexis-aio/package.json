@@ -13,6 +13,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.15.4",
     "@fortawesome/vue-fontawesome": "^3.0.0-5",
     "@headlessui/vue": "^1.4.2",
+    "esbuild": "^0.13.15",
     "sass": "^1.43.5",
     "vue": "^3.2.16",
     "vue-router": "^4.0.12"
@@ -22,6 +23,6 @@
     "autoprefixer": "^10.4.0",
     "postcss": "^8.4.1",
     "tailwindcss": "^2.2.19",
-    "vite": "^2.6.4"
+    "vite": "^2.6.14"
   }
 }
