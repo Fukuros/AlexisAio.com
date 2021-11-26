@@ -1,294 +1,294 @@
 {
     "Ahri": {
-        "bg": "url(src/assets/RiotX_ChampionList_ahri.jpg)",
+        "bg": "url(RiotX_ChampionList_ahri.jpg)",
         "name": "Ahri"
     },
     "Akali": {
-        "bg": "url(src/assets/RiotX_ChampionList_akali.jpg)",
+        "bg": "url(RiotX_ChampionList_akali.jpg)",
         "name": "Akali"
     },
     "Alistar": {
-        "bg": "url(src/assets/RiotX_ChampionList_alistar.jpg)",
+        "bg": "url(RiotX_ChampionList_alistar.jpg)",
         "name": "Alistar"
     },
     "Amumu": {
-        "bg": "url(src/assets/RiotX_ChampionList_amumu.jpg)",
+        "bg": "url(RiotX_ChampionList_amumu.jpg)",
         "name": "Amumu"
     },
     "Annie": {
-        "bg": "url(src/assets/RiotX_ChampionList_annie.jpg)",
+        "bg": "url(RiotX_ChampionList_annie.jpg)",
         "name": "Annie"
     },
     "Aphelios": {
-        "bg": "url(src/assets/Aphelios_0.png)",
+        "bg": "url(Aphelios_0.png)",
         "name": "Aphelios"
     },
     "Ashe": {
-        "bg": "url(src/assets/RiotX_ChampionList_ashe.jpg)",
+        "bg": "url(RiotX_ChampionList_ashe.jpg)",
         "name": "Ashe"
     },
     "Azir": {
-        "bg": "url(src/assets/RiotX_ChampionList_azir.jpg)",
+        "bg": "url(RiotX_ChampionList_azir.jpg)",
         "name": "Azir"
     },
     "Bard": {
-        "bg": "url(src/assets/RiotX_ChampionList_bard.jpg)",
+        "bg": "url(RiotX_ChampionList_bard.jpg)",
         "name": "Bard"
     },
     "Blitzcrank": {
-        "bg": "url(src/assets/RiotX_ChampionList_blitzcrank.jpg)",
+        "bg": "url(RiotX_ChampionList_blitzcrank.jpg)",
         "name": "Blitzcrank"
     },
     "Caitlyn": {
-        "bg": "url(src/assets/RiotX_ChampionList_caitlyn.jpg)",
+        "bg": "url(RiotX_ChampionList_caitlyn.jpg)",
         "name": "Caitlyn"
     },
     "Cassiopeia": {
-        "bg": "url(src/assets/RiotX_ChampionList_cassiopeia.jpg)",
+        "bg": "url(RiotX_ChampionList_cassiopeia.jpg)",
         "name": "Cassiopeia"
     },
     "Corki": {
-        "bg": "url(src/assets/RiotX_ChampionList_corki.jpg)",
+        "bg": "url(RiotX_ChampionList_corki.jpg)",
         "name": "Corki"
     },
     "Diana": {
-        "bg": "url(src/assets/RiotX_ChampionList_diana.jpg)",
+        "bg": "url(RiotX_ChampionList_diana.jpg)",
         "name": "Diana"
     },
     "Dr. Mundo": {
-        "bg": "url(src/assets/RiotX_ChampionList_drmundo.jpg)",
+        "bg": "url(RiotX_ChampionList_drmundo.jpg)",
         "name": "Dr. Mundo"
     },
     "Elise": {
-        "bg": "url(src/assets/RiotX_ChampionList_elise.jpg)",
+        "bg": "url(RiotX_ChampionList_elise.jpg)",
         "name": "Elise"
     },
     "Ezreal": {
-        "bg": "url(src/assets/RiotX_ChampionList_ezreal.jpg)",
+        "bg": "url(RiotX_ChampionList_ezreal.jpg)",
         "name": "Ezreal"
     },
     "Fizz": {
-        "bg": "url(src/assets/RiotX_ChampionList_fizz.jpg)",
+        "bg": "url(RiotX_ChampionList_fizz.jpg)",
         "name": "Fizz"
     },
     "Garen": {
-        "bg": "url(src/assets/RiotX_ChampionList_garen.jpg)",
+        "bg": "url(RiotX_ChampionList_garen.jpg)",
         "name": "Garen"
     },
     "Gwen": {
-        "bg": "url(src/assets/RiotX_ChampionList_gwen.jpg)",
+        "bg": "url(RiotX_ChampionList_gwen.jpg)",
         "name": "Gwen"
     },
     "Irelia": {
-        "bg": "url(src/assets/RiotX_ChampionList_irelia.jpg)",
+        "bg": "url(RiotX_ChampionList_irelia.jpg)",
         "name": "Irelia"
     },
     "Janna": {
-        "bg": "url(src/assets/RiotX_ChampionList_janna.jpg)",
+        "bg": "url(RiotX_ChampionList_janna.jpg)",
         "name": "Janna"
     },
     "Jinx": {
-        "bg": "url(src/assets/RiotX_ChampionList_jinx.jpg)",
+        "bg": "url(RiotX_ChampionList_jinx.jpg)",
         "name": "Jinx"
     },
     "Kai'Sa": {
-        "bg": "url(src/assets/RiotX_ChampionList_kaisa.jpg)",
+        "bg": "url(RiotX_ChampionList_kaisa.jpg)",
         "name": "Kai'Sa"
     },
     "Kalista": {
-        "bg": "url(src/assets/RiotX_ChampionList_kalista.jpg)",
+        "bg": "url(RiotX_ChampionList_kalista.jpg)",
         "name": "Kalista"
     },
     "Karma": {
-        "bg": "url(src/assets/RiotX_ChampionList_karma.jpg)",
+        "bg": "url(RiotX_ChampionList_karma.jpg)",
         "name": "Karma"
     },
     "Kassadin": {
-        "bg": "url(src/assets/RiotX_ChampionList_kassadin.jpg)",
+        "bg": "url(RiotX_ChampionList_kassadin.jpg)",
         "name": "Kassadin"
     },
     "Katarina": {
-        "bg": "url(src/assets/RiotX_ChampionList_katarina.jpg)",
+        "bg": "url(RiotX_ChampionList_katarina.jpg)",
         "name": "Katarina"
     },
     "Kha'Zix": {
-        "bg": "url(src/assets/RiotX_ChampionList_khazix.jpg)",
+        "bg": "url(RiotX_ChampionList_khazix.jpg)",
         "name": "Kha'Zix"
     },
     "Kindred": {
-        "bg": "url(src/assets/RiotX_ChampionList_kindred.jpg)",
+        "bg": "url(RiotX_ChampionList_kindred.jpg)",
         "name": "Kindred"
     },
     "Kog'Maw": {
-        "bg": "url(src/assets/RiotX_ChampionList_kogmaw.jpg)",
+        "bg": "url(RiotX_ChampionList_kogmaw.jpg)",
         "name": "Kog'Maw"
     },
     "LeBlanc": {
-        "bg": "url(src/assets/RiotX_ChampionList_leblanc.jpg)",
+        "bg": "url(RiotX_ChampionList_leblanc.jpg)",
         "name": "LeBlanc"
     },
     "Leona": {
-        "bg": "url(src/assets/RiotX_ChampionList_leona.jpg)",
+        "bg": "url(RiotX_ChampionList_leona.jpg)",
         "name": "Leona"
     },
     "Lulu": {
-        "bg": "url(src/assets/RiotX_ChampionList_lulu.jpg)",
+        "bg": "url(RiotX_ChampionList_lulu.jpg)",
         "name": "Lulu"
     },
     "Malphite": {
-        "bg": "url(src/assets/RiotX_ChampionList_malphite.png)",
+        "bg": "url(RiotX_ChampionList_malphite.png)",
         "name": "Malphite"
     },
     "Master Yi": {
-        "bg": "url(src/assets/RiotX_ChampionList_masteryi.jpg)",
+        "bg": "url(RiotX_ChampionList_masteryi.jpg)",
         "name": "Master Yi"
     },
     "Mordekaiser": {
-        "bg": "url(src/assets/RiotX_ChampionList_mordekaiser.jpg)",
+        "bg": "url(RiotX_ChampionList_mordekaiser.jpg)",
         "name": "Mordekaiser"
     },
     "Nami": {
-        "bg": "url(src/assets/RiotX_ChampionList_nami.jpg)",
+        "bg": "url(RiotX_ChampionList_nami.jpg)",
         "name": "Nami"
     },
     "Nautilus": {
-        "bg": "url(src/assets/RiotX_ChampionList_nautilus.jpg)",
+        "bg": "url(RiotX_ChampionList_nautilus.jpg)",
         "name": "Nautilus"
     },
     "Nocturne": {
-        "bg": "url(src/assets/RiotX_ChampionList_nocturne.jpg)",
+        "bg": "url(RiotX_ChampionList_nocturne.jpg)",
         "name": "Nocturne"
     },
     "Olaf": {
-        "bg": "url(src/assets/RiotX_ChampionList_olaf.jpg)",
+        "bg": "url(RiotX_ChampionList_olaf.jpg)",
         "name": "Olaf"
     },
     "Orianna": {
-        "bg": "url(src/assets/RiotX_ChampionList_orianna.jpg)",
+        "bg": "url(RiotX_ChampionList_orianna.jpg)",
         "name": "Orianna"
     },
     "Ornn": {
-        "bg": "url(src/assets/RiotX_ChampionList_ornn.jpg)",
+        "bg": "url(RiotX_ChampionList_ornn.jpg)",
         "name": "Ornn"
     },
     "Pyke": {
-        "bg": "url(src/assets/RiotX_ChampionList_pyke.jpg)",
+        "bg": "url(RiotX_ChampionList_pyke.jpg)",
         "name": "Pyke"
     },
     "Quinn": {
-        "bg": "url(src/assets/RiotX_ChampionList_quinn.jpg)",
+        "bg": "url(RiotX_ChampionList_quinn.jpg)",
         "name": "Quinn"
     },
     "Rumble": {
-        "bg": "url(src/assets/RiotX_ChampionList_rumble.jpg)",
+        "bg": "url(RiotX_ChampionList_rumble.jpg)",
         "name": "Rumble"
     },
     "Samira": {
-        "bg": "url(src/assets/Samira_0.png)",
+        "bg": "url(Samira_0.png)",
         "name": "Samira"
     },
     "Sejuani": {
-        "bg": "url(src/assets/RiotX_ChampionList_sejuani.jpg)",
+        "bg": "url(RiotX_ChampionList_sejuani.jpg)",
         "name": "Sejuani"
     },
     "Shaco": {
-        "bg": "url(src/assets/RiotX_ChampionList_shaco.jpg)",
+        "bg": "url(RiotX_ChampionList_shaco.jpg)",
         "name": "Shaco"
     },
     "Shen": {
-        "bg": "url(src/assets/RiotX_ChampionList_shen.jpg)",
+        "bg": "url(RiotX_ChampionList_shen.jpg)",
         "name": "Shen"
     },
     "Skarner": {
-        "bg": "url(src/assets/RiotX_ChampionList_skarner.jpg)",
+        "bg": "url(RiotX_ChampionList_skarner.jpg)",
         "name": "Skarner"
     },
     "Swain": {
-        "bg": "url(src/assets/RiotX_ChampionList_swain.jpg)",
+        "bg": "url(RiotX_ChampionList_swain.jpg)",
         "name": "Swain"
     },
     "Sylas": {
-        "bg": "url(src/assets/RiotX_ChampionList_sylas.jpg)",
+        "bg": "url(RiotX_ChampionList_sylas.jpg)",
         "name": "Sylas"
     },
     "Syndra": {
-        "bg": "url(src/assets/RiotX_ChampionList_syndra.jpg)",
+        "bg": "url(RiotX_ChampionList_syndra.jpg)",
         "name": "Syndra"
     },
     "Talon": {
-        "bg": "url(src/assets/RiotX_ChampionList_talon.jpg)",
+        "bg": "url(RiotX_ChampionList_talon.jpg)",
         "name": "Talon"
     },
     "Teemo": {
-        "bg": "url(src/assets/RiotX_ChampionList_teemo.jpg)",
+        "bg": "url(RiotX_ChampionList_teemo.jpg)",
         "name": "Teemo"
     },
     "Thresh": {
-        "bg": "url(src/assets/RiotX_ChampionList_thresh.jpg)",
+        "bg": "url(RiotX_ChampionList_thresh.jpg)",
         "name": "Thresh"
     },
     "Tristana": {
-        "bg": "url(src/assets/RiotX_ChampionList_tristana.jpg)",
+        "bg": "url(RiotX_ChampionList_tristana.jpg)",
         "name": "Tristana"
     },
     "Trundle": {
-        "bg": "url(src/assets/RiotX_ChampionList_trundle.jpg)",
+        "bg": "url(RiotX_ChampionList_trundle.jpg)",
         "name": "Trundle"
     },
     "Twitch": {
-        "bg": "url(src/assets/RiotX_ChampionList_twitch.jpg)",
+        "bg": "url(RiotX_ChampionList_twitch.jpg)",
         "name": "Twitch"
     },
     "Urgot": {
-        "bg": "url(src/assets/RiotX_ChampionList_urgot.jpg)",
+        "bg": "url(RiotX_ChampionList_urgot.jpg)",
         "name": "Urgot"
     },
     "Varus": {
-        "bg": "url(src/assets/RiotX_ChampionList_varus.jpg)",
+        "bg": "url(RiotX_ChampionList_varus.jpg)",
         "name": "Varus"
     },
     "Veigar": {
-        "bg": "url(src/assets/RiotX_ChampionList_veigar.jpg)",
+        "bg": "url(RiotX_ChampionList_veigar.jpg)",
         "name": "Veigar"
     },
     "Vex": {
-        "bg": "url(src/assets/RiotX_ChampionList_vex.jpg)",
+        "bg": "url(RiotX_ChampionList_vex.jpg)",
         "name": "Vex"
     },
     "Vi": {
-        "bg": "url(src/assets/RiotX_ChampionList_vi.jpg)",
+        "bg": "url(RiotX_ChampionList_vi.jpg)",
         "name": "Vi"
     },
     "Viktor": {
-        "bg": "url(src/assets/RiotX_ChampionList_viktor.jpg)",
+        "bg": "url(RiotX_ChampionList_viktor.jpg)",
         "name": "Viktor"
     },
     "Warwick": {
-        "bg": "url(src/assets/RiotX_ChampionList_warwick.jpg)",
+        "bg": "url(RiotX_ChampionList_warwick.jpg)",
         "name": "Warwick"
     },
     "Xayah": {
-        "bg": "url(src/assets/RiotX_ChampionList_xayah.jpg)",
+        "bg": "url(RiotX_ChampionList_xayah.jpg)",
         "name": "Xayah"
     },
     "Xerath": {
-        "bg": "url(src/assets/RiotX_ChampionList_xeratth.jpg)",
+        "bg": "url(RiotX_ChampionList_xeratth.jpg)",
         "name": "Xerath"
     },
     "Xin Zhao": {
-        "bg": "url(src/assets/RiotX_ChampionList_xinzhao.jpg)",
+        "bg": "url(RiotX_ChampionList_xinzhao.jpg)",
         "name": "Xin Zhao"
     },
     "Yasuo": {
-        "bg": "url(src/assets/RiotX_ChampionList_yasuo.jpg)",
+        "bg": "url(RiotX_ChampionList_yasuo.jpg)",
         "name": "Yasuo"
     },
     "Zac": {
-        "bg": "url(src/assets/RiotX_ChampionList_zac.jpg)",
+        "bg": "url(RiotX_ChampionList_zac.jpg)",
         "name": "Zac"
     },
     "Ziggs": {
-        "bg": "url(src/assets/RiotX_ChampionList_ziggs.jpg)",
+        "bg": "url(RiotX_ChampionList_ziggs.jpg)",
         "name": "Ziggs"
     }
 }
