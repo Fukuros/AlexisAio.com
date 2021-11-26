@@ -32,6 +32,8 @@
                 my-8
                 overflow-hidden
                 text-left
+                items-center
+                justify-center
                 align-middle
                 transition-all
                 transform
