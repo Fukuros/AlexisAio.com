@@ -196,7 +196,7 @@
           <HomeCard
             cardIcon="code"
             cardTitle="Code Maintenance"
-            cardText="Alexis AIO will never be outdated - by listening to our users and through their own initiative, Alexis AIO will always be kept up-to-date for users."
+            cardText="Alexis AIO will never be outdated - by listening to our users and through our own initiative, Alexis AIO will always be kept up-to-date for users."
           >
           </HomeCard>
         </li>
