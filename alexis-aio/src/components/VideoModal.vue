@@ -62,7 +62,7 @@
               </DialogTitle>
               <div class="mt-5 h-full flex flex-col items-center">
                 <iframe
-                  src="https://www.youtube.com/embed/5YtxyFkK4I0?autoplay=1&mute=1"
+                  src="https://www.youtube.com/embed/5YtxyFkK4I0?autoplay=1&mute=1?rel=0"
                   class="rounded-lg w-full h-full mt-5 mb-10"
                 ></iframe>
               </div>
