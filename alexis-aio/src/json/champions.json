@@ -139,6 +139,10 @@
     "bg": "url(RiotX_ChampionList_malphite.png)",
     "name": "Malphite"
   },
+  "Maokai": {
+    "bg": "url(RiotX_ChampionList_maokai.jpg)",
+    "name": "Maokai"
+  },
   "Master Yi": {
     "bg": "url(RiotX_ChampionList_masteryi.jpg)",
     "name": "Master Yi"
