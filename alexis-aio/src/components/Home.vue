@@ -51,6 +51,39 @@
               </span>
             </transition>
           </div>
+
+          <a
+            href="https://jkshop.gg/store/category/33-alexis-aio/"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="
+              items-center
+              gap-2
+              bg-gradient-to-r
+              from-purple-800
+              to-indigo-600
+              flex flex-row
+              hover:scale-105
+              duration-300
+              transition
+              shadow-md
+              p-2
+              py-3
+              rounded-md
+              justify-center
+              items-center
+              w-auto
+              font-extrabold
+            "
+          >
+            <font-awesome-icon icon="dollar-sign" class="text-white text-2xl">
+            </font-awesome-icon>
+            Purchase Alexis
+            <span class="text-sm bg-indigo-500 p-0.5 px-1 rounded-sm shadow-lg"
+              >AIO</span
+            >
+          </a>
+
           <a
             href="https://discord.gg/uZ29pxMFTz"
             target="_blank"
@@ -80,6 +113,32 @@
             </font-awesome-icon>
             Join Discord
           </a>
+          <button
+            class="
+              items-center
+              gap-3
+              bg-red-400
+              flex flex-row
+              hover:bg-red-300 hover:scale-105
+              duration-300
+              transition
+              shadow-md
+              p-2
+              py-3
+              rounded-md
+              justify-center
+              items-center
+              w-auto
+              font-extrabold
+            "
+          >
+            <font-awesome-icon
+              :icon="['fab', 'qq']"
+              class="text-white text-3xl"
+            >
+            </font-awesome-icon>
+            QQ: 305208725
+          </button>
           <router-link
             to="/champions"
             class="
@@ -258,8 +317,7 @@
       </div>
     </section>
   </main>
-  <Footer>
-  </Footer>
+  <Footer> </Footer>
 </template>
 
 <script lang="ts">
