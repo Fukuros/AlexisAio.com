@@ -137,7 +137,7 @@
               class="text-white text-3xl"
             >
             </font-awesome-icon>
-            QQ: 305208725
+            QQ群: 305208725
           </button>
           <router-link
             to="/champions"
