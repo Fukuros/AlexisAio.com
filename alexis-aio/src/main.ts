@@ -19,6 +19,7 @@ import {
 
 import {
     faDiscord,
+    faQq,
 } from "@fortawesome/free-brands-svg-icons";
 
 import './index.css'
@@ -29,6 +30,7 @@ library.add(
     faTools,
     faCode,
     faDiscord,
+    faQq,
     faDollarSign,
     faEye,
     faVideo,
