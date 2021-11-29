@@ -113,15 +113,12 @@
             </font-awesome-icon>
             Join Discord
           </a>
-          <button
+          <div
             class="
               items-center
               gap-3
               bg-red-400
               flex flex-row
-              hover:bg-red-300 hover:scale-105
-              duration-300
-              transition
               shadow-md
               p-2
               py-3
@@ -138,7 +135,7 @@
             >
             </font-awesome-icon>
             QQ群: 305208725
-          </button>
+          </div>
           <router-link
             to="/champions"
             class="
